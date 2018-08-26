@@ -94,5 +94,10 @@ namespace SoccerApp
                 MessageBox.Show("Объект удален");
             }
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Новая кнопка");
+        }
     }
 }
