@@ -99,7 +99,7 @@ namespace SoccerApp
         {
             //MessageBox.Show("Новая кнопка");
             int qq = 5;
-            MessageBox.Show("Привет!!!");
+            MessageBox.Show("Привет труженникам села!!!");
         }
 
         private void button5_Click(object sender, EventArgs e)
