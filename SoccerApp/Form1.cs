@@ -99,5 +99,15 @@ namespace SoccerApp
         {
             MessageBox.Show("Новая кнопка");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Новая кнопка");
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Новый checkBox");
+        }
     }
 }
